@@ -1,5 +1,6 @@
 # vs code 的配置文件
 .vscode/
+*.code-workspace
 
 # cmake 生成的文件
 build/
