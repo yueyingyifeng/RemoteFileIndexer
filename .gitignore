@@ -1,0 +1,10 @@
+# vs code 的配置文件
+.vscode/
+
+# cmake 生成的文件
+build/
+CMakeFiles/
+bin/
+CMakeCache.txt
+Makefile
+
